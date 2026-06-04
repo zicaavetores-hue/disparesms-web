@@ -17,7 +17,8 @@
     "react-hot-toast": "^2.4.1",
     "react-dropzone": "^14.2.3",
     "lucide-react": "^0.383.0",
-    "clsx": "^2.1.0"
+    "clsx": "^2.1.0",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
